@@ -1,0 +1,26 @@
+.text-default-color{
+    color: #fd7e14;
+}
+.bg-default-color{
+    background-color: #fd7e14;
+}
+.custom-nav-link{
+    font-weight:bold;
+}
+.custom-nav-link:hover{
+    background-color: #fd7e14;
+    color: white;
+}
+.bg-default-color:hover{
+    background-color: #d93d00;
+}
+.banner-section{
+    background-image: url("../img/header.jpg");
+    background-size: cover;
+    height: 500px;
+}
+.card-from-{
+    padding-top:80px;
+    padding-left: 40px;
+    padding-right:40px ;
+}
